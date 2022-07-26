@@ -1,0 +1,165 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+3
+DIA
+1
+0
+3
+MES
+1
+0
+4
+1
+33
+"INGRESE EL DIA DE SU NACIMIENTO"
+5
+1
+3
+DIA
+4
+1
+30
+"INGRESE SU MES DE NACIMIENTO"
+5
+1
+3
+MES
+7
+0
+1
+53
+(((MES=3) and (DIA>=21)) or ((MES=4) and (DIA <=19)))
+7
+0
+1
+53
+(((MES=4) and (DIA>=20)) or ((MES=5) and (DIA <=20)))
+7
+0
+1
+53
+(((MES=5) and (DIA>=21)) or ((MES=6) and (DIA <=21)))
+7
+0
+1
+53
+(((MES=6) and (DIA>=22)) or ((MES=7) and (DIA <=21)))
+7
+0
+1
+53
+(((MES=7) and (DIA>=22)) or ((MES=8) and (DIA <=22)))
+7
+0
+1
+53
+(((MES=8) and (DIA>=23)) or ((MES=9) and (DIA <=22)))
+7
+0
+1
+54
+(((MES=9) and (DIA>=23)) or ((MES=10) and (DIA <=22)))
+7
+0
+1
+55
+(((MES=10) and (DIA>=23)) or ((MES=11) and (DIA <=22)))
+7
+0
+1
+55
+(((MES=11) and (DIA>=23)) or ((MES=12) and (DIA <=22)))
+7
+0
+1
+54
+(((MES=12) and (DIA>=23)) or ((MES=1) and (DIA <=21)))
+7
+0
+1
+53
+(((MES=1) and (DIA>=22)) or ((MES=2) and (DIA <=17)))
+7
+0
+1
+53
+(((MES=2) and (DIA>=18)) or ((MES=3) and (DIA <=19)))
+13
+4
+1
+21
+"SU SIGNO ES: PISCIS"
+13
+13
+4
+1
+22
+"SU SIGNO ES: ACUARIO"
+13
+13
+4
+1
+26
+"SU SIGNO ES: CAPRICORNIO"
+13
+13
+4
+1
+24
+"SU SIGNO ES: SAGITARIO"
+13
+13
+4
+1
+24
+"SU SIGNO ES: ESCORPION"
+13
+13
+4
+1
+20
+"SU SIGNO ES: LIBRA"
+13
+13
+4
+1
+20
+"SU SIGNO ES: VIRGO"
+13
+13
+4
+1
+18
+"SU SIGNO ES: LEO"
+13
+13
+4
+1
+21
+"SU SIGNO ES: CANCER"
+13
+13
+4
+1
+22
+"SU SIGNO ES: GEMINIS"
+13
+13
+4
+1
+20
+"SU SIGNO ES: TAURO"
+13
+13
+4
+1
+20
+"SU SIGNO ES: ARIES"
+13
+1
